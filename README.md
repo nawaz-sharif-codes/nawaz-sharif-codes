@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nawaz 👋</h1>
+<!-- <h1 align="center">Hi, I'm Nawaz 👋</h1> -->
 
 <h3 align="center">Backend & Systems Engineer building infrastructure and services at scale</h3>
 
