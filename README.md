@@ -77,7 +77,7 @@ Write clean, maintainable code and drive engineering best practices across teams
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nawaz-sharif-codes&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nawaz-sharif-codes&show_icons=true&theme=default&hide_border=true" />
 </p>
 
 ---
