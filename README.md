@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Nawaz 👋</h1>
 
-<h3 align="center">Systems &amp; Backend Engineer building infrastructure and services at scale</h3>
+<h3 align="center">A Full Stack Engineer, Who Builds Infrastructure and Services at Scale</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Backend+%26+Systems+Engineer;Building+distributed%2C+event-driven+systems;NestJS+%7C+TypeScript+%7C+AWS+%7C+PostgreSQL" alt="Typing SVG" />
@@ -10,12 +10,23 @@
 
 ### 🧭 About me
 
-- 🏢 I work on **B2B backend systems and infrastructure at DAZN**, on the platform inherited from DAZN's acquisition of **Foxtel** — spanning IAM (ForgeRock/OpenIDM), AWS microservices, and Kafka/Lambda event pipelines
-- ⚙️ My day-to-day spans both **production infrastructure** (Solaris, AWS, LDAP/Directory Server, GlassFish) and **application development** (TypeScript, .NET Core, React)
-- 🔭 Currently building **[Ledgerly](https://github.com/nawaz-sharif-codes/ledgerly)** — a distributed payment & ledger platform with double-entry accounting, idempotent transfers, and an outbox-based event pipeline
-- 🌱 Currently deepening my hands-on experience with **event-driven architecture, distributed systems patterns, and IAM/OAuth2 migrations**
-- 💬 Ask me about **backend architecture, IAM/directory services, or AWS-based event processing**
-
+Full Stack Egineer | Backend Engineer | Node.js, TypeScript, React.js, AWS | Distributed Systems & Real-Time Architecture
+ 
+Backend Engineer with experience building scalable, distributed systems serving millions of users in real time, at a global sports streaming platform.
+ 
+Technical Skills: JavaScript/TypeScript, React.js, Redux, HTML/CSS, Node.js, Express.js, Nest.js, C#/.NET, AWS (cloud-native, event-driven architecture), PostgreSQL, MongoDB, Docker, Terraform, CI/CD, RESTful APIs, Microservices, System Design.
+ 
+What I do:
+ 
+Design and build fault-tolerant backend systems that stay performant under massive, spiky traffic loads (live sports = unpredictable scale)
+Architect event-driven, cloud-native solutions on AWS
+Build backend services with Node.js/Express.js and Nest.js, and C#/.NET where the stack calls for it
+Build and maintain CI/CD pipelines and containerized (Docker) deployments, provisioning infrastructure as code with Terraform
+Build data models across SQL (PostgreSQL) and NoSQL (MongoDB) based on scalability and flexibility needs
+Build frontend interfaces with React.js and Redux for state management
+Write clean, maintainable code and drive engineering best practices across teams
+ 
+Open to connecting with fellow backend/distributed systems engineers, or opportunities in high-scale, real-time platforms.
 ---
 
 ### 🛠️ Tech stack
