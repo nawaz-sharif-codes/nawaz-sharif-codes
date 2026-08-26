@@ -60,19 +60,17 @@ Write clean, maintainable code and drive engineering best practices across teams
 ---
 
 ### 📌 Featured project
-
 <a href="https://github.com/nawaz-sharif-codes/ledgerly">
-  <img src="https://github-readme-stats-eight-gamma.vercel.app/api?username=nawaz-sharif-codes&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats-eight-gamma.vercel.app/api/pin/?username=nawaz-sharif-codes&repo=ledgerly&theme=default&hide_border=true" />
 </a>
-
 <br clear="left"/>
 
 ---
 
 ### 📊 GitHub stats
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nawaz-sharif-codes&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawaz-sharif-codes&layout=compact&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-eight-gamma.vercel.app/api?username=nawaz-sharif-codes&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-eight-gamma.vercel.app/api/top-langs/?username=nawaz-sharif-codes&layout=compact&theme=default&hide_border=true" />
 </p>
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=nawaz-sharif-codes&theme=default&hide_border=true" />
@@ -81,14 +79,12 @@ Write clean, maintainable code and drive engineering best practices across teams
 ---
 
 ### 🤝 Connect with me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/nawazsharif/">
-    <img src="https://github-readme-stats-eight-gamma.vercel.app/api?username=nawaz-sharif-codes&show_icons=true&theme=default&hide_border=true" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:nawazsharif.works@gmail.com">
-    <img src="https://github-readme-stats-eight-gamma.vercel.app/api?username=nawaz-sharif-codes&show_icons=true&theme=default&hide_border=true" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 <p align="center"><i>⭐️ From <a href="https://github.com/nawaz-sharif-codes">nawaz-sharif-codes</a></i></p>
