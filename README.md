@@ -73,9 +73,9 @@ Write clean, maintainable code and drive engineering best practices across teams
   <img height="165" src="https://github-readme-stats-eight-gamma.vercel.app/api/top-langs/?username=nawaz-sharif-codes&layout=compact&theme=default&hide_border=true" />
 </p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-gamma.vercel.app/api/top-langs/?username=nawaz-sharif-codes&layout=compact&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-gamma.vercel.app/api/top-langs/?username=nawaz-sharif-codes&layout=compact&theme=default&hide_border=true" />
-  <img src="https://github-readme-stats-eight-gamma.vercel.app/api/top-langs/?username=nawaz-sharif-codes&layout=compact&theme=default&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-gamma.vercel.app/api?username=nawaz-sharif-codes&show_icons=true&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-gamma.vercel.app/api?username=nawaz-sharif-codes&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats-eight-gamma.vercel.app/api?username=nawaz-sharif-codes&show_icons=true&theme=default&hide_border=true" />
 </picture>
 
 ---
