@@ -23,6 +23,7 @@ Build and maintain CI/CD pipelines and containerized (Docker) deployments, provi
 Build data models across SQL (PostgreSQL) and NoSQL (MongoDB) based on scalability and flexibility needs
 Build frontend interfaces with React.js and Redux for state management
 Write clean, maintainable code and drive engineering best practices across teams
+
 ---
 
 ### 🛠️ Tech stack
