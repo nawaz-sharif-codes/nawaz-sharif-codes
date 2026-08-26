@@ -62,7 +62,7 @@ Write clean, maintainable code and drive engineering best practices across teams
 ### 📌 Featured project
 
 <a href="https://github.com/nawaz-sharif-codes/ledgerly">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=nawaz-sharif-codes&repo=ledgerly&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats-eight-gamma.vercel.app/api?username=nawaz-sharif-codes&show_icons=true&theme=default&hide_border=true" />
 </a>
 
 <br clear="left"/>
@@ -84,10 +84,10 @@ Write clean, maintainable code and drive engineering best practices across teams
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nawazsharif/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://github-readme-stats-eight-gamma.vercel.app/api?username=nawaz-sharif-codes&show_icons=true&theme=default&hide_border=true" />
   </a>
   <a href="mailto:nawazsharif.works@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://github-readme-stats-eight-gamma.vercel.app/api?username=nawaz-sharif-codes&show_icons=true&theme=default&hide_border=true" />
   </a>
 </p>
 
