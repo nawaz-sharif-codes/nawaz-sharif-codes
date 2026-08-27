@@ -54,7 +54,7 @@ Backend engineer building scalable, distributed systems serving millions of user
 ---
 
 ### 📌 Featured project
-<a href="https://github.com/nawaz-sharif-codes/ledgerly">
+<a href="https://github.com/nawaz-sharif-codes/BeatTheATS">
   <img src="https://github-readme-stats-ochre-ten-tdcxemwzse.vercel.app/api/pin/?username=nawaz-sharif-codes&repo=ledgerly&theme=default&hide_border=true" />
 </a>
 <br clear="left"/>
