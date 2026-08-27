@@ -69,8 +69,8 @@ Write clean, maintainable code and drive engineering best practices across teams
 
 ### 📊 GitHub stats
 <p align="left">
-  <img height="165" src="https://github-readme-stats-eight-gamma.vercel.app/api?username=nawaz-sharif-codes&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats-eight-gamma.vercel.app/api/top-langs/?username=nawaz-sharif-codes&layout=compact&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-ochre-ten-tdcxemwzse.vercel.app/api?username=nawaz-sharif-codes&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-ochre-ten-tdcxemwzse.vercel.app/api/top-langs/?username=nawaz-sharif-codes&layout=compact&theme=default&hide_border=true" />
 </p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=nawaz-sharif-codes&theme=dark&hide_border=true" />
