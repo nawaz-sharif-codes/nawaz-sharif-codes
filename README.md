@@ -54,8 +54,8 @@ Backend engineer building scalable, distributed systems serving millions of user
 ---
 
 ### 📌 Featured project
-<a href="https://github.com/nawaz-sharif-codes/WatchNext ">
-  <img src="https://github-readme-stats-ochre-ten-tdcxemwzse.vercel.app/api/pin/?username=nawaz-sharif-codes&repo=WatchNext &theme=default&hide_border=true" />
+<a href="https://github.com/nawaz-sharif-codes/WatchNext">
+  <img src="https://github-readme-stats-ochre-ten-tdcxemwzse.vercel.app/api/pin/?username=nawaz-sharif-codes&repo=WatchNext&theme=default&hide_border=true" />
 </a>
 <br clear="left"/>
 
