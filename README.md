@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Nawaz 👋🏽</h1>
 
-<h3 align="center">Backend Engineer Building Distributed, Event-Driven Systems on AWS</h3>
+<h3 align="center">Backend engineer building distributed, event-driven systems on AWS</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Comfortable+across+the+stack%2C+strongest+at+the+core;Building+distributed%2C+event-driven+systems;NestJS+%7C+TypeScript+%7C+AWS+%7C+PostgreSQL;React+%7C+Redux+%7C+HTML+%7C+CSS+%7C+JS" alt="Typing SVG" />
@@ -8,21 +8,15 @@
 
 ### 🧭 About me
 
-Full Stack Egineer | Backend Engineer | Node.js, TypeScript, React.js, AWS | Distributed Systems & Real-Time Architecture
- 
-Backend Engineer with experience building scalable, distributed systems serving millions of users in real time, at a global sports streaming platform.
- 
-Technical Skills: JavaScript/TypeScript, React.js, Redux, HTML/CSS, Node.js, Express.js, Nest.js, C#/.NET, AWS (cloud-native, event-driven architecture), PostgreSQL, MongoDB, Docker, Terraform, CI/CD, RESTful APIs, Microservices, System Design.
- 
-What I do:
- 
-Design and build fault-tolerant backend systems that stay performant under massive, spiky traffic loads (live sports = unpredictable scale)
-Architect event-driven, cloud-native solutions on AWS
-Build backend services with Node.js/Express.js and Nest.js, and C#/.NET where the stack calls for it
-Build and maintain CI/CD pipelines and containerized (Docker) deployments, provisioning infrastructure as code with Terraform
-Build data models across SQL (PostgreSQL) and NoSQL (MongoDB) based on scalability and flexibility needs
-Build frontend interfaces with React.js and Redux for state management
-Write clean, maintainable code and drive engineering best practices across teams
+Backend engineer building scalable, distributed systems serving millions of users in real time on a global sports streaming platform. Comfortable across the full stack, strongest at the backend and infrastructure core.
+
+**What I do:**
+- Design fault-tolerant backend systems that stay performant under massive, spiky traffic loads (live sports = unpredictable scale)
+- Architect event-driven, cloud-native solutions on AWS
+- Build backend services with Node.js/Express, NestJS, and C#/.NET where the stack calls for it
+- Maintain CI/CD pipelines and containerized (Docker) deployments, provisioning infrastructure as code with Terraform
+- Model data across SQL (PostgreSQL) and NoSQL (MongoDB) based on scalability and flexibility needs
+- Build frontend interfaces with React and Redux for state management
 
 ---
 
