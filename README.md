@@ -61,7 +61,7 @@ Write clean, maintainable code and drive engineering best practices across teams
 
 ### 📌 Featured project
 <a href="https://github.com/nawaz-sharif-codes/ledgerly">
-  <img src="https://github-readme-stats-eight-gamma.vercel.app/api/pin/?username=nawaz-sharif-codes&repo=ledgerly&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats-ochre-ten-tdcxemwzse.vercel.app/api/pin/?username=nawaz-sharif-codes&repo=ledgerly&theme=default&hide_border=true" />
 </a>
 <br clear="left"/>
 
