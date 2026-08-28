@@ -63,7 +63,7 @@ Backend engineer building scalable, distributed systems serving millions of user
 
 ### 📊 GitHub stats
 <p align="left">
-  <img height="165" src="https://github-readme-stats-ochre-ten-tdcxemwzse.vercel.app/api?username=nawaz-sharif-codes&show_icons=true&theme=default&hide_border=true" />
+  <!-- <img height="165" src="https://github-readme-stats-ochre-ten-tdcxemwzse.vercel.app/api?username=nawaz-sharif-codes&show_icons=true&theme=default&hide_border=true" /> -->
   <img height="165" src="https://github-readme-stats-ochre-ten-tdcxemwzse.vercel.app/api/top-langs/?username=nawaz-sharif-codes&layout=compact&theme=default&hide_border=true" />
 </p>
 <picture>
