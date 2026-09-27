@@ -11,7 +11,7 @@
 Backend engineer building scalable, distributed systems serving millions of users in real time on a global sports streaming platform. Comfortable across the full stack, strongest at the backend and infrastructure core.
 
 **What I do:**
-- Design fault-tolerant backend systems that stay performant under massive, spiky traffic loads (live sports = unpredictable scale)
+- Design fault-tolerant backend systems that stay performant under massive, spiky traffic loads
 - Architect event-driven, cloud-native solutions on AWS
 - Build backend services with Node.js/Express, NestJS, and C#/.NET where the stack calls for it
 - Maintain CI/CD pipelines and containerized (Docker) deployments, provisioning infrastructure as code with Terraform
